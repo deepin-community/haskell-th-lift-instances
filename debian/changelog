@@ -1,0 +1,75 @@
+haskell-th-lift-instances (0.1.17-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:42:02 +0800
+
+haskell-th-lift-instances (0.1.17-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Mon, 17 Aug 2020 13:18:48 +0300
+
+haskell-th-lift-instances (0.1.16-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Clint Adams <clint@debian.org>  Sun, 31 May 2020 11:52:53 -0400
+
+haskell-th-lift-instances (0.1.12-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Clint Adams <clint@debian.org>  Thu, 01 Aug 2019 22:10:19 -0400
+
+haskell-th-lift-instances (0.1.11-4) unstable; urgency=medium
+
+  * Remove build dependency on libghc-text-dev (provided by ghc-8.4.3)
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Mon, 01 Oct 2018 13:47:45 +0300
+
+haskell-th-lift-instances (0.1.11-3) unstable; urgency=medium
+
+  [ Clint Adams ]
+  * Set Rules-Requires-Root to no.
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 30 Sep 2018 21:23:14 +0300
+
+haskell-th-lift-instances (0.1.11-2) unstable; urgency=medium
+
+  [ Ilias Tsitsimpis ]
+  * Change Priority to optional. Since Debian Policy version 4.0.1,
+    priority extra has been deprecated.
+  * Use the HTTPS form of the copyright-format URL
+  * Modify d/watch and Source field in d/copyright to use HTTPS
+  * Declare compliance with Debian policy 4.1.1
+  * Use salsa.debian.org URLs in Vcs-{Browser,Git} fields
+
+  [ Clint Adams ]
+  * Bump to Standards-Version 4.1.4.
+
+ -- Clint Adams <clint@debian.org>  Mon, 09 Apr 2018 20:05:08 -0400
+
+haskell-th-lift-instances (0.1.11-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Clint Adams <clint@debian.org>  Sun, 18 Jun 2017 02:18:23 -0400
+
+haskell-th-lift-instances (0.1.10-3) unstable; urgency=medium
+
+  * Upload to unstable as part of GHC 8 transition.
+
+ -- Clint Adams <clint@debian.org>  Thu, 27 Oct 2016 18:36:34 -0400
+
+haskell-th-lift-instances (0.1.10-2) experimental; urgency=medium
+
+  * Temporarily build with ghc 8 in experimental.
+
+ -- Clint Adams <clint@debian.org>  Sun, 16 Oct 2016 18:06:54 -0400
+
+haskell-th-lift-instances (0.1.10-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Clint Adams <clint@debian.org>  Sun, 16 Oct 2016 15:54:12 -0400
